@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multithreading", "multithreading\multithreading.csproj", "{71DD301A-7791-4036-BA94-53F36A437A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carRace", "carRace\carRace.csproj", "{59ABE2AC-BBF0-418D-83B9-A347737B5566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DD301A-7791-4036-BA94-53F36A437A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DD301A-7791-4036-BA94-53F36A437A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DD301A-7791-4036-BA94-53F36A437A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DD301A-7791-4036-BA94-53F36A437A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59ABE2AC-BBF0-418D-83B9-A347737B5566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ABE2AC-BBF0-418D-83B9-A347737B5566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ABE2AC-BBF0-418D-83B9-A347737B5566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ABE2AC-BBF0-418D-83B9-A347737B5566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
